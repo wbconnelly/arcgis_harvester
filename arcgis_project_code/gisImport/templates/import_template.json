@@ -1,0 +1,97 @@
+[{
+    "resourceType": "Domain",
+    "identifier": {
+      "name": "Physical Domain",
+      "community": {
+        "name": "DBs Community"
+      }
+    },
+    "type": {
+      "name": "Physical Data Dictionary"
+    }
+  },
+  {
+    "resourceType": "Asset",
+    "identifier": {
+      "name": "SCHEMA_1",
+      "domain": {
+        "name": "Physical Domain",
+        "community": {
+          "name": "DBs Community"
+        }
+      }
+    },
+    "type": {
+      "name": "Schema"
+    }
+  },
+    {
+    "resourceType": "Asset",
+    "identifier": {
+      "name": "TABLE_1",
+      "domain": {
+        "name": "Physical Domain",
+        "community": {
+          "name": "DBs Community"
+        }
+      }
+    },
+    "type": {
+      "name": "Table"
+    },
+    "relations": {
+      "00000000-0000-0000-0000-000000007043:SOURCE": [
+        {
+          "name": "SCHEMA_1",
+          "domain": {
+            "name": "Physical Domain",
+            "community": {
+              "name": "DBs Community"
+            }
+          }
+        }
+      ]
+    },
+    "attributes": {
+      "00000000-0000-0000-0000-000000003114": [
+        {
+          "value": "Table with relations auto created by API"
+        }
+      ]
+    }
+  },
+  {
+    "resourceType": "Asset",
+    "identifier": {
+      "name": "OBJECT_ID",
+      "domain": {
+        "name": "Physical Domain",
+        "community": {
+          "name": "DBs Community"
+        }
+      }
+    },
+    "type": {
+      "name": "Column"
+    },
+    "relations": {
+      "00000000-0000-0000-0000-000000007042:TARGET": [
+        {
+          "name": "TABLE_1",
+          "domain": {
+            "name": "Physical Domain",
+            "community": {
+              "name": "DBs Community"
+            }
+          }
+        }
+      ]
+    },
+    "attributes": {
+      "00000000-0000-0000-0000-000000003114": [
+        {
+          "value": "Table with relations auto created by API"
+        }
+      ]
+    }
+  }]

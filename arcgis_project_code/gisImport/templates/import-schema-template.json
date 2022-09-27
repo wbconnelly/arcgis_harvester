@@ -1,0 +1,22 @@
+[{
+    "resourceType": "Asset",
+    "identifier": {
+      "name": "",
+      "domain": {
+        "name": "",
+        "community": {
+          "name": "DBs Community"
+        }
+      }
+    },
+    "type": {
+      "name": "Schema"
+    },
+    "attributes": {
+      "Description": [
+        {
+          "value": ""
+        }
+      ]
+    }
+  }]

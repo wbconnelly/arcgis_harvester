@@ -1,0 +1,12 @@
+[{
+    "resourceType": "Domain",
+    "identifier": {
+      "name": "Physical Domain",
+      "community": {
+        "name": "DBs Community"
+      }
+    },
+    "type": {
+      "name": "Physical Data Dictionary"
+    }
+  }]

@@ -1,0 +1,3432 @@
+[
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> OBJECTID12111",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> SHAPE01961",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> LINK_ID03773",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_ID87260",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> SEQ_NUM18949",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> FAC_TYPE30309",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_NAME21110",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_LANGCD00110",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_NMTYPE33699",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_ST_NUM23269",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ST_NUM_FUL81351",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ST_NFUL_LC83070",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ST_NAME28387",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ST_LANGCD49760",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> POI_ST_SD37372",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACC_TYPE77235",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> PH_NUMBER58448",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> CHAIN_ID58639",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> NAT_IMPORT10711",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> PRIVATE59931",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> IN_VICIN79951",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> NUM_PARENT59768",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> NUM_CHILD88223",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> PERCFRREF96759",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> VAN_CITY09368",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_ADDR83267",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_LANGCD79848",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_ST_NAM12014",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_ST_NUM61894",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_ADMIN06029",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ACT_POSTAL94579",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> ENTR_TYPE49430",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Hospitals -> STATE_NM28859",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Hospitals",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> OBJECTID19742",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> RAILWAY_NM19411",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> SHAPE67564",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> DIRECTION35115",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> ROUTE_TYPE41614",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> RAIL_SEGMENT87318",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> SHAPE_LENGTH009531",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> SHAPE.LEN74670",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> GIS_ID42375",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> GLOBALID52811",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> CREATOR60615",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> CREATED42940",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> EDITOR41288",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "VRE Lines -> EDITED91530",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> VRE Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> OBJECTID88031",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> ROUTE_NUMBER25810",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> ROUTE_TYPE99338",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> AGENCY27480",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> SHAPE41676",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> DIRECTION02344",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> RAIL_SEGMENT10645",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> SHAPE_LENGTH008294",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> SHAPE.LEN74132",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> NAME95456",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> GIS_ID51754",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> GLOBALID13899",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> CREATOR74812",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> CREATED12203",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> EDITOR54893",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "MARC Lines -> EDITED70987",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> MARC Lines",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> OBJECTID35287",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> SHAPE21873",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> NAME22648",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> FCC36018",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> LOC_ID87074",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> USERS47493",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> SHAPE.AREA20890",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "Airport_Runways_ESRI -> SHAPE.LEN53960",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/HSEMA_Dashboard -> MapServer -> Airport_Runways_ESRI",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> OBJECTID06726",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> HOSPITAL54013",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> ADDRESS11267",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> WEB_URL75511",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> MAR_ID77958",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> MINI_DISASTER74654",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> TRAUMA_BYPASS67286",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> YELLOW_ALERT90109",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> CAPACITY23888",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> REROUTE16303",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> RED_ALERT88333",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> DATE_GENERATED53534",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> STATUS77226",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> FeatureServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> OBJECTID87789",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> HOSPITAL60160",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> ADDRESS42528",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> WEB_URL36441",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> MAR_ID97656",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> MINI_DISASTER39070",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> TRAUMA_BYPASS18088",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> YELLOW_ALERT75990",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> CAPACITY91031",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> REROUTE43844",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> RED_ALERT05531",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> DATE_GENERATED44723",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> STATUS28224",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    },
+    {
+        "resourceType": "Asset",
+        "identifier": {
+            "name": "CHATS Region V Hospital Status -> SHAPE19602",
+            "domain": {
+                "name": "HSEMA",
+                "community": {
+                    "name": "VDOT"
+                }
+            }
+        },
+        "type": {
+            "name": "Column"
+        },
+        "relations": {
+            "00000000-0000-0000-0000-000000007042:TARGET": [
+                {
+                    "name": "HSEMA -> HSEMA/RegionalHospitalStatus -> MapServer -> CHATS Region V Hospital Status",
+                    "domain": {
+                        "name": "HSEMA",
+                        "community": {
+                            "name": "VDOT"
+                        }
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "00000000-0000-0000-0000-000000003114": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[{
+    "resourceType": "Asset",
+    "identifier": {
+      "name": "Test_Col",
+      "domain": {
+        "name": "",
+        "community": {
+          "name": ""
+        }
+      }
+    },
+    "type": {
+      "name": "Column"
+    },
+    "relations": {
+      "00000000-0000-0000-0000-000000007042:TARGET": [
+        {
+          "name": "TABLE_1",
+          "domain": {
+            "name": "",
+            "community": {
+              "name": "DBs Community"
+            }
+          }
+        }
+      ]
+    },
+    "attributes": {
+      "00000000-0000-0000-0000-000000003114": [
+        {
+          "value": ""
+        }
+      ]
+    }
+  }]

@@ -1,0 +1,11 @@
+https://wconnellycollibracloud.collibra.com/rest/2.0/assets?Student%20Information
+
+    gis_server = request.args['gis_server']
+    dgc_url = request.args['dgc']
+    community = request.args['community']
+    folders = request.args['folders']
+https://maps2.dcgis.dc.gov/dcgis/rest/services/HSEMA
+
+https://wconnellycollibracloud.collibra.com/signin
+
+localhost:5000?gis_server=https://maps2.dcgis.dc.gov/dcgis/rest/services&dgc=https://wconnellycollibracloud.collibra.com&community=VDOT&folders=HSEMA
